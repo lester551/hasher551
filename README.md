@@ -10,6 +10,6 @@ python3
 # usage
 cd lester551
 -- chmod +x hasher551.py
--- python lester551.py or python3 lester551.py
+-- python hasher551.py or python3 551.py
 # video on YouTube for explaining
 # Āñås
