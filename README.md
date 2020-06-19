@@ -9,7 +9,7 @@ python3
 , git
 # usage
 cd lester551
--- chmod +x lester551.py
+-- chmod +x hasher551.py
 -- python lester551.py or python3 lester551.py
 # video on YouTube for explaining
 # Āñås
