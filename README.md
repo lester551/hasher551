@@ -12,4 +12,5 @@ cd lester551
 -- chmod +x hasher551.py
 -- python hasher551.py or python3 551.py
 # video on YouTube for explaining
+https://youtu.be/9kCHmv2cN7I
 # Āñås
