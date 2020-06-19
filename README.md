@@ -3,7 +3,7 @@ this script is to hash a files or strings
 -- Encoding & Decoding
 -- writed by Anas (Lester551)
 # clone
-git clone https://github.com/lester551/lester551.git
+git clone https://github.com/lester551/hasher551.git
 # required
 python3
 , git
