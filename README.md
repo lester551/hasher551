@@ -1,5 +1,5 @@
 # hasher551
-this script is to hash a file or strings
+this script is to hash a files or strings
 -- Encoding & Decoding
 -- writed by Anas (Lester551)
 # clone
